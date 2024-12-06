@@ -1,0 +1,2 @@
+PTMcode2_associations_between_proteins.txt filter=lfs diff=lfs merge=lfs -text
+PTMcode2_associations_within_proteins.txt filter=lfs diff=lfs merge=lfs -text
