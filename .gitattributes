@@ -1,2 +1,8 @@
 PTMcode2_associations_between_proteins.txt filter=lfs diff=lfs merge=lfs -text
 PTMcode2_associations_within_proteins.txt filter=lfs diff=lfs merge=lfs -text
+1919.csv filter=lfs diff=lfs merge=lfs -text
+mediation[[:space:]]all.csv filter=lfs diff=lfs merge=lfs -text
+65crc_length[[:space:]]5000_luy_length_change.csv filter=lfs diff=lfs merge=lfs -text
+interaction[[:space:]]string[[:space:]]PPI.csv filter=lfs diff=lfs merge=lfs -text
+Match[[:space:]]with[[:space:]]PTMcode_within[[:space:]]proteins_all.csv filter=lfs diff=lfs merge=lfs -text
+Match[[:space:]]with[[:space:]]PTMcode_between[[:space:]]diffrent[[:space:]]proteins_all.csv filter=lfs diff=lfs merge=lfs -text
